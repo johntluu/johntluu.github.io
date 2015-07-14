@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+body {
+  font-family: Fjalla One, Arial, sans-serif;
+  background-color: #EFEFEF
+}
+head {
+  background-color: #CDCDCD
+}
+header {
+  background: url(../images/wallpaper3.jpg);
+  background-size: cover;
+  text-align: center;
+
+
+}
+img: {
+  border-radius: 50%;
+}
+a {
+  color: #427fed;
+  text-decoration: none;
+  transition: 0.2s all;
+}
+a:hover {
+  color: #427fed
+}
+header a {
+  color: white;
+  font-weight: bold;
+}
+h1 {
+  color: white;
+}
+h2 {
+  color: white;
+}
+section {
+  background: white;
+  border: solid;
+  border-color: #BCBCBC;
+  border-radius: 0px;
+  border-style:hidden;
+  border-width: thin;
+  text-align: center;
+  padding-top: 7px
+  margin-bottom: 15px;
+  box-shadow: 1px 1px 2px #000000
+}
+li {
+  text-align: justify;
+}
